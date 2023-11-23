@@ -37,29 +37,29 @@ BIRTHDAY- Data de nascimento do lutador.
 
 2° ARQUIVO - TÍTULOS
 
-1° TABELA - CHAMPIONSHIPS_FEMALE 
-5 Colunas  e  128 Elementos
-SUPERSTARS -  O nome da lutadora .
-DATE -  Data em que a lutadora conquistou o título.
-DAYS -   Quantidade de dias que a lutadora permaneceu campeã.
-TITLES -  Nome do título/cinturão.
-TEAMS  -  Equipe de dois ou mais lutadores.
+1° TABELA - CHAMPIONSHIPS_FEMALE  
+5 Colunas  e  128 Elementos  
+SUPERSTARS -  O nome da lutadora .  
+DATE -  Data em que a lutadora conquistou o título.  
+DAYS -   Quantidade de dias que a lutadora permaneceu campeã.  
+TITLES -  Nome do título/cinturão.  
+TEAMS  -  Equipe de dois ou mais lutadores.  
 
-2° TABELA - CHAMPIONSHIPS_MALE 
-5 Colunas  e  94 Elementos
-SUPERSTARS -  O nome do lutador.
-DATE -  Data em que o lutador conquistou o título.
-DAYS -   Quantidade de dias que o lutador permaneceu campeão.
-TITLES -  Nome do título/cinturão.
-TEAMS  -  Equipe de dois ou mais lutadores.
+2° TABELA - CHAMPIONSHIPS_MALE   
+5 Colunas  e  94 Elementos  
+SUPERSTARS -  O nome do lutador.  
+DATE -  Data em que o lutador conquistou o título.  
+DAYS -   Quantidade de dias que o lutador permaneceu campeão.  
+TITLES -  Nome do título/cinturão.  
+TEAMS  -  Equipe de dois ou mais lutadores.  
 
 #
 
 3° ARQUIVO - POPULARIDADE  
 6  Colunas  e  272  Elementos  
-DATA -   Data do evento  
-PPVs - Eventos especiais e pagos que ocorrem mensalmente (ou em intervalos regulares) e geralmente têm um preço de acesso separado  
-MAIN_EVENT -  Evento principal do ppv  
-LOW_TICKETS -  Menor valor de preço dos ingressos  
-HIGH_TICKETS -  Maior valor de preços dos ingressos  
-ATTENDANCE - Quantidade total de pessoas na arena  
+DATA -   Data do evento.  
+PPVs - Eventos especiais e pagos que ocorrem mensalmente (ou em intervalos regulares) e geralmente têm um preço de acesso separado.  
+MAIN_EVENT -  Evento principal do PPV.  
+LOW_TICKETS -  Menor valor de preço dos ingressos.  
+HIGH_TICKETS -  Maior valor de preços dos ingressos.  
+ATTENDANCE - Quantidade total de pessoas na arena.  
