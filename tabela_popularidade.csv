@@ -136,25 +136,25 @@ DATA,PPVS,MAIN_EVENT,LOW_TICKETS,HIGH_TICKETS,ATTENDANCE
 2019-07-27,Smackville,"Kofi Kingston (c) vs. Dolph Ziggler vs. Samoa Joe in a triple threat match for the WWE Championship	",0,0,0
 2019-08-11,SummerSlam,"Brock Lesnar (c) vs. Seth Rollins for the WWE Universal Championship	",138.14,3775.85,16904
 2019-09-15,"Clash of Champions","Seth Rollins (c) vs. Braun Strowman for the WWE Universal Championship	",0,0,8000
-2019-10-06,"Hell in a Cell","Seth Rollins (c) vs. "The Fiend" Bray Wyatt in a Hell in a Cell match for the WWE Universal Championship	",115.12,2854.91,10000
-2019-10-31,"Crown Jewel","Seth Rollins (c) vs. "The Fiend" Bray Wyatt in a falls count anywhere match for the WWE Universal Championship	",0,0,21000
+2019-10-06,"Hell in a Cell","Seth Rollins (c) vs. The Fiend Bray Wyatt in a Hell in a Cell match for the WWE Universal Championship	",115.12,2854.91,10000
+2019-10-31,"Crown Jewel","Seth Rollins (c) vs. The Fiend Bray Wyatt in a falls count anywhere match for the WWE Universal Championship	",0,0,21000
 2019-11-24,"Survivor Series","Becky Lynch vs. Bayley vs. Shayna Baszler in a triple threat match	",129.85,4177.38,13271
 2019-12-01,Starrcade,"Kevin Owens vs. Bobby Lashley	",0,0,0
 2019-12-15,"TLC: Tables, Ladders & Chairs","The Kabuki Warriors (Asuka and Kairi Sane) (c) vs. Becky Lynch and Charlotte Flair in a tag team Tables, Ladders, and Chairs match for the WWE Womens Tag Team Championship	",128.93,4144.23,14000
 2020-01-26,"Royal Rumble","30-man Royal Rumble match	",0,0,42715
-2020-02-27,SuperShowDown,""The Fiend" Bray Wyatt (c) vs. Goldberg for the WWE Universal Championship	",0,0,0
+2020-02-27,SuperShowDown,"The Fiend Bray Wyatt (c) vs. Goldberg for the WWE Universal Championship	",0,0,0
 2020-03-08,"Elimination Chamber","Natalya vs. Liv Morgan vs. Asuka vs. Shayna Baszler vs. Ruby Riott vs. Sarah Logan in a six-woman Elimination Chamber match	",130.81,2335.96,14853
 2020-03-25,"WrestleMania 36","The Undertaker vs. AJ Styles in a boneyard match",0,0,0
 2020-03-26,"WrestleMania 36","Brock Lesnar (c) vs. Drew McIntyre for the WWE Championship",0,0,0
 2020-05-10,"Money in the Bank","Daniel Bryan vs. Rey Mysterio vs. Aleister Black vs. Otis vs. AJ Styles vs. King Corbin in a six-man Money in the Bank ladder match and Lacey Evans vs. Carmella vs. Dana Brooke vs. Asuka vs. Nia Jax vs. Shayna Baszler in a six-woman Money in the Bank ladder match for the WWE Raw Womens Championship",308.35,3943.11,0
 2020-06-14,Backlash,"Edge vs. Randy Orton	",0,0,0
 2020-07-19,"The Horror Show at Extreme Rules","Braun Strowman vs. Bray Wyatt in a Wyatt Swamp Fight	",129.88,3550.66,0
-2020-08-23,SummerSlam,"Braun Strowman (c) vs. "The Fiend" Bray Wyatt in a falls count anywhere match for the WWE Universal Championship	",140.16,3830.98,0
-2020-08-30,Payback,""The Fiend" Bray Wyatt (c) vs. Roman Reigns vs. Braun Strowman in a triple threat no holds barred match for the WWE Universal Championship	",92.5,2335.96,0
+2020-08-23,SummerSlam,"Braun Strowman (c) vs. The Fiend Bray Wyatt in a falls count anywhere match for the WWE Universal Championship	",140.16,3830.98,0
+2020-08-30,Payback,"The Fiend Bray Wyatt (c) vs. Roman Reigns vs. Braun Strowman in a triple threat no holds barred match for the WWE Universal Championship	",92.5,2335.96,0
 2020-09-27,"Clash of Champions","Roman Reigns (c) vs. Jey Uso for the WWE Universal Championship	",0,0,0
 2020-10-25,"Hell in a Cell","Drew McIntyre (c) vs. Randy Orton in a Hell in a Cell match for the WWE Championship	",116.8,2896.59,0
 2020-11-22,"Survivor Series","Drew McIntyre vs. Roman Reigns	",131.75,4238.37,0
-2020-12-20,"TLC: Tables, Ladders & Chairs",""The Fiend" Bray Wyatt vs. Randy Orton in a Firefly Inferno match	",130.81,4204.73,0
+2020-12-20,"TLC: Tables, Ladders & Chairs","The Fiend Bray Wyatt vs. Randy Orton in a Firefly Inferno match	",130.81,4204.73,0
 2021-01-22,"Superstar Spectacle","Drew McIntyre and The Indus Sher (Rinku and Saurav) vs. Jinder Mahal and The Bollywood Boyz (Sunil Singh and Samir Singh)	",0,0,0
 2021-01-31,"Royal Rumble","30-man Royal Rumble match	",0,0,0
 2021-02-21,"Elimination Chamber","Drew McIntyre (c) vs. The Miz for the WWE Championship	",133.52,2384.32,0
@@ -165,19 +165,19 @@ DATA,PPVS,MAIN_EVENT,LOW_TICKETS,HIGH_TICKETS,ATTENDANCE
 2021-06-20,"Hell in a Cell","Bobby Lashley (c) vs. Drew Mcintyre in a Last Chance Hell in a Cell match for the WWE Championship	",119.22,2956.55,0
 2021-07-18,"Money in the Bank","Roman Reigns (c) vs. Edge for the WWE Universal Championship	",314.73,4024.73,14541
 2021-08-21,SummerSlam,"Roman Reigns (c) vs. John Cena for the WWE Universal Championship	",143.06,3910.28,51326
-2021-09-26,"Extreme Rules Nationwide","Roman Reigns (c) vs. "The Demon" Finn Bálor in an Extreme Rules match for the WWE Universal Championship	",132.57,3624.16,13455
+2021-09-26,"Extreme Rules Nationwide","Roman Reigns (c) vs. The Demon Finn Bálor in an Extreme Rules match for the WWE Universal Championship	",132.57,3624.16,13455
 2021-10-21,"Crown Jewel","Roman Reigns (c) vs. Brock Lesnar for the WWE Universal Championship	",0,0,22000
 2021-11-21,"Survivor Series","Big E vs. Roman Reigns	",0,0,15120
 2022-01-01,"Day 1","Big E (c) vs. Seth Rollins vs. Kevin Owens vs. Bobby Lashley vs. Brock Lesnar in a Fatal five-way match for the WWE Championship",0,0,13657
 2022-01-29,"Royal Rumble","30-man Royal Rumble match	",136,5556.25,44390
-2022-02-19,"Elimination Chamber","Bobby Lashley (c) vs. AJ Styles vs. Austin Theory vs. Brock Lesnar vs. Riddle vs. Seth "Freakin" Rollins in a six-man Elimination Chamber match for the WWE Championship	",0,0,33328
+2022-02-19,"Elimination Chamber","Bobby Lashley (c) vs. AJ Styles vs. Austin Theory vs. Brock Lesnar vs. Riddle vs. Seth Freakin Rollins in a six-man Elimination Chamber match for the WWE Championship	",0,0,33328
 2022-04-02,"WrestleMania 38","Stone Cold Steve Austin vs. Kevin Owens in a No Holds Barred match	",195,7809.92,65719
 2022-04-03,"WrestleMania 38","Brock Lesnar (WWE-c) vs. Roman Reigns (Universal-c) in a Winner Takes All match to unify the WWE Championship and WWE Universal Championship",195,7809.92,65653
 2022-05-08,"WrestleMania Backlash","Drew McIntyre and RK-Bro (Randy Orton and Riddle) vs. The Bloodline (Roman Reigns and The Usos (Jey Uso and Jimmy Uso)) in a six-man tag team match	",0,0,8050
-2022-06-05,"Hell in a Cell","Cody Rhodes vs. Seth "Freakin" Rollins in a Hell in a Cell match	",122.98,3049.98,12834
-2022-07-02,"Money in the Bank","Drew McIntyre vs. Madcap Moss vs. Omos vs. Riddle vs. Sami Zayn vs. Seth "Freakin" Rollins vs. Sheamus vs. Theory in an eight-man Money in the Bank ladder match	",324.68,4151.91,12076
+2022-06-05,"Hell in a Cell","Cody Rhodes vs. Seth Freakin Rollins in a Hell in a Cell match	",122.98,3049.98,12834
+2022-07-02,"Money in the Bank","Drew McIntyre vs. Madcap Moss vs. Omos vs. Riddle vs. Sami Zayn vs. Seth Freakin Rollins vs. Sheamus vs. Theory in an eight-man Money in the Bank ladder match	",324.68,4151.91,12076
 2022-07-30,SummerSlam,"Roman Reigns (c) vs. Brock Lesnar in a Last Man Standing match for the Undisputed WWE Universal Championship	",147.5,4033.84,48449
 2022-09-03,"Clash at the Castle","Roman Reigns (c) vs. Drew McIntyre for the Undisputed WWE Universal Championship	",0,0,62296
-2022-10-08,"Extreme Rules","Matt Riddle vs. Seth "Freakin" Rollins in a Fight Pit match	",136.76,3738.69,15944
+2022-10-08,"Extreme Rules","Matt Riddle vs. Seth Freakin Rollins in a Fight Pit match	",136.76,3738.69,15944
 2022-11-05,"Crown Jewel","Roman Reigns (c) vs. Logan Paul for the Undisputed WWE Universal Championship",0,0,0
 2022-11-29,"Survivor Series: WarGames","The Brawling Brutes (Sheamus, Ridge Holland, and Butch), Drew McIntyre, and Kevin Owens vs. The Bloodline (Roman Reigns, Solo Sikoa, Sami Zayn, and The Usos (Jey Uso and Jimmy Uso)) in a WarGames match	",0,0,15609
