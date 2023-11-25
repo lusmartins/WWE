@@ -35,7 +35,7 @@ BIRTHDAY- Data de nascimento do lutador.
 
 #
 
-2° ARQUIVO - TÍTULOS 
+2° ARQUIVO - TÍTULOS  
 5 Colunas  e  128 Elementos  
 SUPERSTARS -  O nome da lutadora .  
 DATE -  Data em que a lutadora conquistou o título.  
