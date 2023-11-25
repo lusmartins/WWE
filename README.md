@@ -35,23 +35,14 @@ BIRTHDAY- Data de nascimento do lutador.
 
 #
 
-2° ARQUIVO - TÍTULOS
-
-1° TABELA - CHAMPIONSHIPS_FEMALE  
+2° ARQUIVO - TÍTULOS 
 5 Colunas  e  128 Elementos  
 SUPERSTARS -  O nome da lutadora .  
 DATE -  Data em que a lutadora conquistou o título.  
 DAYS -   Quantidade de dias que a lutadora permaneceu campeã.  
 TITLES -  Nome do título/cinturão.  
 TEAMS  -  Equipe de dois ou mais lutadores.  
-
-2° TABELA - CHAMPIONSHIPS_MALE   
-5 Colunas  e  94 Elementos  
-SUPERSTARS -  O nome do lutador.  
-DATE -  Data em que o lutador conquistou o título.  
-DAYS -   Quantidade de dias que o lutador permaneceu campeão.  
-TITLES -  Nome do título/cinturão.  
-TEAMS  -  Equipe de dois ou mais lutadores.  
+GENDER - Gênero dos lutador
 
 #
 
